@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://jesusbernaldev.tech">Jesus Bernal</a> 👋</h1>
+</div>
+<img src="https://media.licdn.com/dms/image/D4E16AQG7VpsWHn0WuA/profile-displaybackgroundimage-shrink_350_1400/0/1698010446090?e=1703721600&v=beta&t=Gm_TqNm-UVyQH8TqAAEwH4U71bq3vuIc6jjilYSkBWg">
+
+## About me
+- 🚀 Full Stack Javascrit Developer 🚀
+<p>I am a passionate Full Stack developer specialized in JavaScript. My journey in the world of programming began in 2022 when I discovered my love for creating technological solutions. Since then, my career has been an exciting journey of learning and growth in which I have had the privilege of working on a variety of challenging and exciting projects.</p>
+<br>
+
+## Technologies That I Know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,express,postgresql,figma,vite,netlify,github,html,js,nodejs,postman,react,redux,tailwind,vscode&perline=14" />
+  </a>
+</p>
+
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/JesusBernal2020">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JesusBernal2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JesusBernal2020&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
