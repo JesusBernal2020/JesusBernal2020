@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://jesusbernaldev.tech">Jesus Bernal</a> 👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/D5616AQEv67mRj_bfNw/profile-displaybackgroundimage-shrink_350_1400/0/1699980049943?e=1705536000&v=beta&t=4uPigZ_YnbYGuYIVj5VlNyiYQ4bLa0KLLLiLnEj27DI">
+<img src="https://media.licdn.com/dms/image/D4E16AQGB-baBeUI5-w/profile-displaybackgroundimage-shrink_350_1400/0/1700757817228?e=1706140800&v=beta&t=VzBeRen5iRQT6rDmpN6eVOWAWx-ryZoSp4exYwy_OuQ">
 
 ## About me
 - 🚀 Full Stack Javascrit Developer 🚀
