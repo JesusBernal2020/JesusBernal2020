@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,postgresql,figma,vite,netlify,github,html,js,typescript,nodejs,postman,react,redux,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,typescript,git,github,figma,netlify,vite,react,redux,tailwind,dart,flutter,nodejs,express,postgresql,postman,&perline=14" />
   </a>
 </p>
 
